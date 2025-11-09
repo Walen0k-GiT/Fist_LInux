@@ -1,26 +1,35 @@
-# Базовая система
+# Базовые системные утилиты
+locales
 sudo
-curl
-wget
-git
-nano
-vim
+adduser
+passwd
 systemd
 dbus
 
 # Сеть
 network-manager
-wpasupplicant
-net-tools
+curl
+wget
 
-# Звук
-pulseaudio
-pulseaudio-utils
+# Редакторы
+nano
+vim
 
-# Графика
+# Графическая среда
 xorg
 xfce4
 xfce4-goodies
 lightdm
+lightdm-gtk-greeter
+
+# Приложения
 firefox
-file-manager
+thunar
+xfce4-terminal
+mousepad
+gvfs
+policykit-1
+dbus-x11
+
+# Аудио
+pulseaudio
