@@ -1,0 +1,26 @@
+# Базовая система
+sudo
+curl
+wget
+git
+nano
+vim
+systemd
+dbus
+
+# Сеть
+network-manager
+wpasupplicant
+net-tools
+
+# Звук
+pulseaudio
+pulseaudio-utils
+
+# Графика
+xorg
+xfce4
+xfce4-goodies
+lightdm
+firefox
+file-manager
